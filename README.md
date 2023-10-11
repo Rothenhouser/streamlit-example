@@ -1,6 +1,4 @@
-# Welcome to Streamlit!
+This is a test using Streamlit's free cloud hosting. So no local data storage etc.
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
+Run app with `streamlit run streamlit_app.py`, or just check this repo out as a Github codespace and it will start automatically.
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
