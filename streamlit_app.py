@@ -3,7 +3,14 @@ import streamlit as st
 
 from data import get_stations, get_temperatures
 
-st.title("Development of max temperatures at German weather stations ")
+"""
+# Development of max temperatures at German weather stations
+
+Climate change is usually talked about as the rise in global average temperatures -
+ e.g. the 1.5C goal. More important for our personal experience of climate change
+are temperature extremes, particularly in summer. This site lets you explore how German 
+summer heat records have been rising much faster than global average temperatures.
+"""
 
 data_load_state = st.text("Loading stations")
 stations = get_stations()
